@@ -46,7 +46,7 @@ cloud-native platform builds for financial institutions.
 
 ## Languages
 
-Japanese (JLPT N1) · English (TOEIC L&R 785)
+Japanese (JLPT N1) · English (TOEIC L&R 795)
 
 ## Projects
 
