@@ -1,8 +1,8 @@
 # Hi, I'm Zaw Min Htay 👋
 
 Cloud & platform engineer in Tokyo with about 9 years in infrastructure, from large-scale
-data center networking to AWS cloud platforms, Kubernetes, and CI/CD automation. I lead
-cloud-native platform builds for financial institutions.
+data center networking to AWS cloud platforms, Kubernetes, and CI/CD automation. I design
+and build cloud-native platforms for financial institutions.
 
 ## What I do
 
@@ -18,12 +18,12 @@ cloud-native platform builds for financial institutions.
 
 ## Highlights
 
-- Led the infrastructure for a bank's internal platform on a closed network: 19 containers on
-  ECS Fargate, Terraform across 3 environments, and a CI/CD pipeline with signed container images
-- Designed a highly available Kubernetes (ROSA) platform and a GitOps deployment flow
-  (GitHub Actions + Argo CD) for a major bank's mobile app renewal
+- Designed and built the infrastructure for a bank's internal platform on a closed network:
+  19 containers on ECS Fargate, Terraform across 3 environments, and a CI/CD pipeline with
+  signed container images
 - Operated a large-scale Cisco ACI data center network for a mobile carrier serving tens of
-  millions of users, handling 200+ incidents and automating health checks with Python
+  millions of users, handling 200+ incidents and writing Python / Bash scripts to automate
+  APIC configuration changes and health checks
 - Migrated 50+ systems of an airline's private cloud, including top-SLA systems, without incident
 
 ## Currently
