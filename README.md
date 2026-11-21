@@ -18,6 +18,9 @@ and build cloud-native platforms for financial institutions.
 
 ## Highlights
 
+- **Current:** designing and building a highly available Kubernetes platform on ROSA
+  (multi-AZ) with GitOps deployments using GitHub Actions + Argo CD, for a financial-services
+  client
 - Designed and built the infrastructure for a bank's internal platform on a closed network:
   19 containers on ECS Fargate, Terraform across 3 environments, and a CI/CD pipeline with
   signed container images
