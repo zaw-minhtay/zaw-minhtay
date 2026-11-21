@@ -1,22 +1,33 @@
 # Hi, I'm Zaw Min Htay 👋
 
-Cloud & platform engineer in Tokyo with 7+ years in infrastructure, from data center
-networking to AWS and Azure cloud and Kubernetes / ROSA container platforms, including
-systems for financial institutions.
+Cloud & platform engineer in Tokyo with about 9 years in infrastructure, from large-scale
+data center networking to AWS cloud platforms, Kubernetes, and CI/CD automation. I lead
+cloud-native platform builds for financial institutions.
 
-## Focus areas
+## What I do
 
-| Area | Tools |
+| Area | Experience |
 |---|---|
-| ☁️ Cloud | AWS, Azure |
-| 🏗️ Infrastructure as Code | Terraform |
-| 🔄 CI/CD & GitOps | GitHub Actions, Argo CD |
-| ☸️ Containers & orchestration | Kubernetes, ROSA (Red Hat OpenShift on AWS), Docker |
-| 🌐 Networking | AWS networking, Cisco |
+| ☁️ AWS platforms | ECS Fargate, EKS, ROSA / OpenShift, Aurora, private (closed-network) designs with VPC, PrivateLink, and Route 53 |
+| 🏗️ Infrastructure as Code | Terraform for multi-environment (dev / stg / prd) platforms, CloudFormation |
+| 🔄 CI/CD & GitOps | GitHub Actions, GitLab CI, Argo CD, CodePipeline / CodeBuild |
+| 🔐 Supply-chain security | Container image signing and verification with Cosign + KMS |
+| 🌐 Networking | Cisco ACI / SDN, BGP, IS-IS, VXLAN, hybrid site-to-site VPN |
+| 📈 Reliability | High-availability design, monitoring and alert-noise reduction, DR |
+| 🐍 Automation | Python, Bash |
+
+## Highlights
+
+- Led the infrastructure for a bank's internal platform on a closed network: 19 containers on
+  ECS Fargate, Terraform across 3 environments, and a CI/CD pipeline with signed container images
+- Designed a highly available Kubernetes (ROSA) platform and a GitOps deployment flow
+  (GitHub Actions + Argo CD) for a major bank's mobile app renewal
+- Operated a large-scale Cisco ACI data center network for a mobile carrier serving tens of
+  millions of users, handling 200+ incidents and automating health checks with Python
+- Migrated 50+ systems of an airline's private cloud, including top-SLA systems, without incident
 
 ## Currently
 
-- 🔄 Learning GitOps: GitHub Actions → Argo CD → Kubernetes
 - 🔐 Studying for **AWS Certified Security – Specialty**
 
 ## Certifications
