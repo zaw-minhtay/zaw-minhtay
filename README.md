@@ -23,7 +23,7 @@ and build cloud-native platforms for financial institutions.
   signed container images
 - Operated a large-scale Cisco ACI data center network for a mobile carrier serving tens of
   millions of users, handling 200+ incidents and writing Python / Bash scripts to automate
-  APIC configuration changes and health checks
+  APIC configuration changes
 - Migrated 50+ systems of an airline's private cloud, including top-SLA systems, without incident
 
 ## Currently
