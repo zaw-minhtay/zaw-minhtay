@@ -12,7 +12,7 @@ and build cloud-native platforms for financial institutions.
 | 🏗️ Infrastructure as Code | Terraform for multi-environment (dev / stg / prd) platforms, CloudFormation |
 | 🔄 CI/CD & GitOps | GitHub Actions, GitLab CI, Argo CD, CodePipeline / CodeBuild |
 | 🔐 Supply-chain security | Container image signing and verification with Cosign + KMS |
-| 🌐 Networking | Cisco ACI / SDN, BGP, IS-IS, VXLAN, Azure ↔ on-premises site-to-site VPN |
+| 🌐 Networking | Cisco ACI / SDN, BGP, IS-IS, VXLAN, Site-to-site VPN (Azure) |
 | 📈 Reliability | High-availability design, monitoring and alert-noise reduction, DR |
 | 🐍 Automation | Python, Bash |
 
