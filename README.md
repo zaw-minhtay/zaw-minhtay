@@ -55,6 +55,7 @@ Burmese (native) · Japanese (JLPT N1) · English (TOEIC L&R 795)
 
 | Project | What it is |
 |---|---|
+| [cloud-infra-labs](https://github.com/zaw-minhtay/cloud-infra-labs) | Hands-on platform engineering labs and architecture designs. First lab: a GitOps pipeline with GitHub Actions, GHCR, and Argo CD on Kubernetes, with self-heal and Git rollback |
 | [az104-study-guide](https://github.com/zaw-minhtay/az104-study-guide) | Interactive AZ-104 practice-question app with explanations |
 
 ## Outside work
