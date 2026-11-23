@@ -49,7 +49,7 @@ and build cloud-native platforms for financial institutions.
 
 ## Languages
 
-Burmese (native) · Japanese (JLPT N1) · English (TOEIC L&R 795)
+Burmese (native) · Japanese (JLPT N1) · English (TOEIC L&R 785)
 
 ## Projects
 
